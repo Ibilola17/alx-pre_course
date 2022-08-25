@@ -1,0 +1,21 @@
+#!/bin/bash
+echo ALX School >> alx
+
+echo '#!/bin/bash' >school
+
+echo 'The school is open! >>school
+
+cd ..
+
+git add .
+
+git commit -m My personal work
+
+git push -set -upstream origin update_script
+
+git checkout main
+
+cd cd bash
+
+
+echo ALX school is so cool !
